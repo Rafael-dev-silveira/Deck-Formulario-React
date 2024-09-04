@@ -1,0 +1,30 @@
+* {
+    list-style: none;
+}
+
+body {
+    background-color: rgb(166, 252, 252);
+    margin: 20px;
+}
+
+div {
+    padding: 3px;
+}
+
+p {
+    color: rgb(107, 107, 107);
+}
+
+input {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.botao {
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.botao:hover {
+    background-color: rgb(109, 109, 253);
+}
